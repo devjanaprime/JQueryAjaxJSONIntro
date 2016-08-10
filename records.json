@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "first_field": "record0",
+      "last_field": "last0"
+    },
+    {
+      "first_field": "record1",
+      "last_field": "last1"
+    },
+    {
+      "first_field": "record2",
+      "last_field": "last2"
+    },
+    {
+      "first_field": "record3",
+      "last_field": "last3"
+    },
+    {
+      "first_field": "record4",
+      "last_field": "last4"
+    },
+    {
+      "first_field": "record5",
+      "last_field": "last5"
+    }
+  ]
+}
